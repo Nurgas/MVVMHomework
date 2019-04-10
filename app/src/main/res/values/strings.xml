@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TO-DO-MVVM</string>
+
+    <string name="action_delete_all">Delete all Tasks</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
